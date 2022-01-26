@@ -7,7 +7,7 @@ and then brute force a user's password.
 This is designed to run on an S2 Wi-Fi Nugget, but it will run on any ESP32s2 board. The Nugget will just
 react to POST requests with an animated face expressing anger on failed credentials and joy when you win.
 
-To install:
+<h1>To install:</h1>
 
 Install the latest version of CircuitPython on your ESP32S2 device
 
