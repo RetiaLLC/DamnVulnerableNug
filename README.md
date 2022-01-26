@@ -22,12 +22,14 @@ Open the 'secrets.py' file and add your Wi-Fi network name and password, save th
 The DamnVulnerableNugget will now connect to your Wi-Fi Network. You can access the serial terminal to see the IP address,
 or scan for the Nugget on your network with Nmap, Fing, Arp-Scan or another network scanner.
 
-To play:
+<h1>To play:</h1>
 
 When connected to your Wi-Fi, the DamnVulnerableNugget will fetch a username list and a password list from Github.
-It will then pick a random username and password, and start the webapp. You'll have to solve a new login pair each time!
+It will then pick a random username and password from the list, and start the webapp. 
 
-To solve:
+You'll have to solve a new login pair each time!
+
+<h1>To solve:</h1>
 
 Navigate to the DamnVulnerable Nugget page. Attempt to log in.
 
