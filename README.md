@@ -3,10 +3,12 @@ The Damn Vulnerable Nugget Webapp for any ESP32S2 board
 
 This vulnerable web application is designed to let beginners try two steps to solve the lab: 
 * Brute-forcing valid usernames 
-* Brute forcing a user's password 
+* Brute forcing a valid account password
 
 This is designed to run on an S2 Wi-Fi Nugget, but it will run on any ESP32s2 board. The Nugget will just
 react to POST requests with an animated face expressing anger on failed credentials and joy when you win.
+
+Get a Wi-Fi Nugget here: https://retia.io/products/wi-fi-nugget-s2-nugget-esp32s2
 
 <h1>To install:</h1>
 
