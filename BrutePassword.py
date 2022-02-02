@@ -19,4 +19,4 @@ while wrong:
             wrong = False
             break
 
-print("Found credentials: Username {} with password {} name:".format(adminName, name))
+print("Found credentials: Username {} with password {}".format(adminName, name))
