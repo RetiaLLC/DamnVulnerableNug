@@ -34,6 +34,8 @@ You'll have to solve a new login pair each time!
 
 <h1>To solve:</h1>
 
+Check out the attached Python solution!
+
 Navigate to the DamnVulnerable Nugget page. Attempt to log in.
 
 In BurpSuite or another proxy, intercept the POST request and examine it.
