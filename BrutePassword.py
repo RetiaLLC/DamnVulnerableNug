@@ -2,7 +2,7 @@ import requests
 import random
 
 adminName = "root"
-passwordList = "bigpasswordlist.txt"
+passwordList = "passwords.txt"
 requestURL = 'http://192.168.59.192/login'
 
 with open(passwordList, 'r') as f:
