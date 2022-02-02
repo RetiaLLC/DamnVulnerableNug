@@ -1,7 +1,7 @@
 import requests
 import random
 
-usernameList = "18usernames.txt"
+usernameList = "usernames.txt"
 requestURL = 'http://192.168.59.192/login'
 
 with open(usernameList, 'r') as f:
