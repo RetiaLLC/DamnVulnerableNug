@@ -1,6 +1,8 @@
 # DamnVulnerableNug
 The Damn Vulnerable Nugget Webapp for any ESP32S2 board
 
+Watch the setup video & solution here: https://youtu.be/ArgRtCcIThA
+
 This vulnerable web application is designed to let beginners try two steps to solve the lab: 
 * Brute-forcing valid usernames 
 * Brute forcing a valid account password
