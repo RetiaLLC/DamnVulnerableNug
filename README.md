@@ -34,6 +34,12 @@ It will then pick a random username and password from the list, and start the we
 
 You'll have to solve a new login pair each time!
 
+Once the blue neopixel is on, the game is ready to play. You can find the IP address of the Damn Vulnerable Nugget displayed on the screen.
+
+When you submit a POST request, the Nugget should react by flashing the neopixel red or purple on a failed attempt.
+
+The neopixel will stay green when you log in with the correct username and password. If you see this, you win!
+
 <h1>To solve:</h1>
 
 Check out the attached Python solution!
