@@ -48,8 +48,8 @@ Navigate to the DamnVulnerable Nugget page. Attempt to log in.
 
 In BurpSuite or another proxy, intercept the POST request and examine it.
 
-Brute-force the username using the username list here: https://github.com/HakCat-Tech/DamnVulnerableNug/blob/main/usernames.txt
+Brute-force the username using the username list here: https://raw.githubusercontent.com/RetiaLLC/DamnVulnerableNug/main/usernames.txt
 
-Brute-force the password with the password list here: https://github.com/HakCat-Tech/DamnVulnerableNug/blob/main/passwords.txt
+Brute-force the password with the password list here: https://raw.githubusercontent.com/RetiaLLC/DamnVulnerableNug/main/passwords.txt
 
 When you succeed, you'll be taken to one of my favorite websites.
